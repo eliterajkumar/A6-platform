@@ -1,1 +1,1 @@
-# Full-Stack-Web-Development
+# A6-platform Blog app
