@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "mongodb": "^6.6.1",
+    "props": "^0.3.0"
+  }
+}
